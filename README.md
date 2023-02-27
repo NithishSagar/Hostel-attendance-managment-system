@@ -1,1 +1,1 @@
-# Hostel-attendance-managment-system
+# Hostel-managment-system
